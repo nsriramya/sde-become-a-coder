@@ -1,4 +1,4 @@
-	#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 bool ispossible(int n,int array[], int mid,int students)
 {
